@@ -8,7 +8,7 @@ Code in Jupyter notebook
 code.ipynb
 ```
 
-More information
+More information about data source, data analysis and results, please check:
 ```
 Project Report.docx
 ```
